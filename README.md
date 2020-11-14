@@ -1,5 +1,5 @@
 # Start Wars Repo
 
-![./yoda.png](MESTRE YODA)
+![MESTRE YODA](./yoda.png)
 
 Repositório de exemplo
